@@ -1,0 +1,8 @@
+C:\Users\ahsan\source\repos\task4\obj\Debug\task4.csproj.AssemblyReference.cache
+C:\Users\ahsan\source\repos\task4\obj\Debug\task4.csproj.CoreCompileInputs.cache
+C:\Users\ahsan\source\repos\task4\bin\Debug\task4.exe.config
+C:\Users\ahsan\source\repos\task4\bin\Debug\task4.exe
+C:\Users\ahsan\source\repos\task4\bin\Debug\task4.pdb
+C:\Users\ahsan\source\repos\task4\obj\Debug\task4.exe
+C:\Users\ahsan\source\repos\task4\obj\Debug\task4.pdb
+C:\Users\ahsan\source\repos\task4\obj\Debug\task4.exe.config
