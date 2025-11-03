@@ -1,0 +1,15 @@
+C:\Users\ahsan\OneDrive\Documents\Developer\oop2-fall-2025-26\Project\calculator\obj\Debug\net9.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahsan\OneDrive\Documents\Developer\oop2-fall-2025-26\Project\calculator\obj\Debug\net9.0\calculator.AssemblyInfoInputs.cache
+C:\Users\ahsan\OneDrive\Documents\Developer\oop2-fall-2025-26\Project\calculator\obj\Debug\net9.0\calculator.AssemblyInfo.cs
+C:\Users\ahsan\OneDrive\Documents\Developer\oop2-fall-2025-26\Project\calculator\obj\Debug\net9.0\calculator.csproj.CoreCompileInputs.cache
+C:\Users\ahsan\OneDrive\Documents\Developer\oop2-fall-2025-26\Project\calculator\obj\Debug\net9.0\calculator.sourcelink.json
+C:\Users\ahsan\OneDrive\Documents\Developer\oop2-fall-2025-26\Project\calculator\bin\Debug\net9.0\calculator.exe
+C:\Users\ahsan\OneDrive\Documents\Developer\oop2-fall-2025-26\Project\calculator\bin\Debug\net9.0\calculator.deps.json
+C:\Users\ahsan\OneDrive\Documents\Developer\oop2-fall-2025-26\Project\calculator\bin\Debug\net9.0\calculator.runtimeconfig.json
+C:\Users\ahsan\OneDrive\Documents\Developer\oop2-fall-2025-26\Project\calculator\bin\Debug\net9.0\calculator.dll
+C:\Users\ahsan\OneDrive\Documents\Developer\oop2-fall-2025-26\Project\calculator\bin\Debug\net9.0\calculator.pdb
+C:\Users\ahsan\OneDrive\Documents\Developer\oop2-fall-2025-26\Project\calculator\obj\Debug\net9.0\calculator.dll
+C:\Users\ahsan\OneDrive\Documents\Developer\oop2-fall-2025-26\Project\calculator\obj\Debug\net9.0\refint\calculator.dll
+C:\Users\ahsan\OneDrive\Documents\Developer\oop2-fall-2025-26\Project\calculator\obj\Debug\net9.0\calculator.pdb
+C:\Users\ahsan\OneDrive\Documents\Developer\oop2-fall-2025-26\Project\calculator\obj\Debug\net9.0\calculator.genruntimeconfig.cache
+C:\Users\ahsan\OneDrive\Documents\Developer\oop2-fall-2025-26\Project\calculator\obj\Debug\net9.0\ref\calculator.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rKngUkhcI9Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ahsan\\OneDrive\\Documents\\Developer\\oop2-fall-2025-26\\Project\\calculator\\calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahsan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
