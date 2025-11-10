@@ -5,3 +5,4 @@ C:\Users\ahsan\OneDrive\Documents\Developer\oop2-fall-2025-26\Project\MortgageCa
 C:\Users\ahsan\OneDrive\Documents\Developer\oop2-fall-2025-26\Project\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.csproj.CoreCompileInputs.cache
 C:\Users\ahsan\OneDrive\Documents\Developer\oop2-fall-2025-26\Project\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.exe
 C:\Users\ahsan\OneDrive\Documents\Developer\oop2-fall-2025-26\Project\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.pdb
+C:\Users\ahsan\OneDrive\Documents\Developer\oop2-fall-2025-26\Project\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.exe.config
