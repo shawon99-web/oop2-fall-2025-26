@@ -1,0 +1,7 @@
+C:\Users\ahsan\OneDrive\Documents\Developer\oop2-fall-2025-26\Lab\Employee\bin\Debug\Employee.exe.config
+C:\Users\ahsan\OneDrive\Documents\Developer\oop2-fall-2025-26\Lab\Employee\bin\Debug\Employee.exe
+C:\Users\ahsan\OneDrive\Documents\Developer\oop2-fall-2025-26\Lab\Employee\bin\Debug\Employee.pdb
+C:\Users\ahsan\OneDrive\Documents\Developer\oop2-fall-2025-26\Lab\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+C:\Users\ahsan\OneDrive\Documents\Developer\oop2-fall-2025-26\Lab\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\ahsan\OneDrive\Documents\Developer\oop2-fall-2025-26\Lab\Employee\obj\Debug\Employee.exe
+C:\Users\ahsan\OneDrive\Documents\Developer\oop2-fall-2025-26\Lab\Employee\obj\Debug\Employee.pdb
